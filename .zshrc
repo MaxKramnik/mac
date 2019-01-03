@@ -3,7 +3,7 @@
 export PATH=/Applications/Postgres.app/Contents/Versions/latest/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/nouman/.oh-my-zsh
+export ZSH=/Users/maxkramnik/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -90,7 +90,7 @@ export TERM=xterm-256color
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias tmux="tmux -2"
 
-export NVM_DIR="/Users/nouman/.nvm"
+export NVM_DIR="/Users/maxkramnik/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
 eval "$(direnv hook zsh)"
